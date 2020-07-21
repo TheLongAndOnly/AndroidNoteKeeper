@@ -3,4 +3,37 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_note_list">NoteListActivity</string>
     <string name="title_activity_note">Edit Note</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_notes">Notes</string>
+    <string name="menu_courses">Courses</string>
+    <string name="note_title_hint">Note Title</string>
+    <string name="note_text_hint">Note Text</string>
+    <string name="nav_share_message">Share</string>
+    <string name="nav_send_message">Send</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="general_header">General</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- General Preferences -->
+    <string name="pref_title_display_name">Display Name</string>
+    <string name="pref_default_display_name">Your Name</string>
+    <string name="pref_user_email_address">Email Address</string>
+    <string name="pref_default_email_address">yours@email.com</string>
+    <string name="pref_title_social">Favorite Social Networks</string>
+
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
 </resources>
